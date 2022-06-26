@@ -1,0 +1,27 @@
+.Location_Generator {
+    text-align: center;
+    margin: auto;
+    margin-top: 160px;
+}
+
+.Location_Generator h1 {
+    margin-top: 10px
+}
+
+.Location_Generator p {
+    font-size: 20px
+}
+
+.Location_Generator .generate {
+    font-size: xx-large;
+    padding: 3px 7px;
+    margin-bottom: 10px;
+}
+
+.tableList {
+    width: 50%;
+}
+
+.tableList.left {
+    width: 100%;
+}
